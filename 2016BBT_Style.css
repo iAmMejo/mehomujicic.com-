@@ -1,0 +1,124 @@
+h1{
+    color: Black;
+    text-align: center;
+    font-family: "Calibri Light";
+    font-size: 15px;
+    vertical-align: middle;
+}
+
+#teampictures{
+    display: inline-block;
+
+}
+
+#teampictures img{
+    width: 33%;
+    height: 33%;
+    align-content: center;
+}
+
+.row1{
+    padding-top: 15px;
+}
+
+.row2{
+    padding-top: 50px;
+}
+
+.row3{
+    padding-top: 50px;
+}
+
+legend{
+    text-align: center;
+    font-size: 35px;
+    font-family: Impact, "Times New Roman";
+}
+
+fieldset{
+    margin-top: 20px;
+    padding-top: 15px;
+    border-width: thin;
+}
+#buttons{
+    display: inline-block;
+    width: 1080px;
+}
+
+#NextPage{
+    width: 17%;
+    height: 17%;
+    padding-top: 5px;
+    padding-bottom: 50px;
+    padding-right: 5px;
+    float: right;
+}
+
+#PrevPage{
+    width: 17%;
+    height: 17%;
+    padding-top: 5px;
+    padding-bottom: 50px;
+    padding-left: 5px;
+    float: left;
+}
+
+#bodyPics{
+    align-content: center;
+    text-align: center;
+    border-width: thin;
+    border-style: solid;
+    margin-top: 20px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+
+
+
+}
+.mainpics{
+    padding-bottom: 2px;
+    width: 20%;
+    height: 20%;
+    align-content: center;
+}
+.mainpics_w{
+    padding-bottom: 2px;
+    width: 436px;
+    height: 324px;
+    align-content: center;
+}
+#specialPicsFieldset{
+    display: inline-block;
+    text-align: center;
+}
+
+h2{
+    font-family: Calibri;
+}
+
+#specialPicsFieldset2{
+    display: inline-block;
+    text-align: center;
+}
+h3{
+    font-family: Calibri;
+}
+.specialPics{
+    display: inline-block;
+    width: 25%;
+    height: 25%;
+    align-content: center;
+}
+
+#pageNumbers{
+
+}
+
+.pageLinks{
+    display: inline-block;
+    position:relative;
+    margin: 10px;
+    padding-left: 43px;
+    padding-top: 5px;
+}
+

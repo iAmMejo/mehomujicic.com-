@@ -1,0 +1,174 @@
+body {
+    background-color: white;
+}
+
+#container{
+    width: 1080px;
+    margin: 0 auto;
+    background-color: white;
+    }
+
+
+#container2{
+    position: static;
+    width: 1080px;
+    height: 600px;
+    display: block;
+
+}
+
+
+.containerMain{
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+
+}
+
+.containerMain img{
+    width: 1080px;
+    height: 607px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+div.Logo{
+    display: block;
+    text-align: center;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    }
+
+li{
+    display: inline;
+    margin: 52px;
+    padding: 35px;
+    }
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+li a:hover{
+    text-decoration: underline;
+}
+
+div.NavBar{
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    text-align: center;
+    vertical-align: middle;
+    }
+
+.footer{
+    display: block;
+    height: auto;
+    bottom: 5px;
+    text-align: center;
+    font-size: small;
+    font-family: "Calibri Light";
+}
+
+#1080{
+    width: 1080px;
+    height: 800px;
+}
+
+#maindfeildset{
+    margin-top: 20px;
+    font-family: Impact;
+    font-size: larger;
+    align-content: center;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    padding: 0;
+}
+
+#carinarnold{
+    width: 1050px;
+    height: auto;
+}
+
+#contactlegend{
+    font-size: 27px;
+    font-family: "Calibri Light";
+    margin-bottom: 10px;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#contactsubmission{
+    display: inline-block;
+    width: 539px;
+    height: 300px;
+}
+
+#greeting{
+    display: table;
+    text-align: center;
+    font-family: "Calibri Light";
+    font-size: 30px;
+}
+#contactform{
+    width: 530px;
+    height: 300px;
+}
+
+.input{
+    margin-top: 3px;
+    margin-bottom: 2px;
+    width: 98%;
+    font-family: "Calibri Light";
+
+}
+.submit{
+    margin: 5px;
+    width: 15%;
+    font-family: "Calibri Light";
+
+
+}
+
+#comments{
+
+    height: 50px;
+}
+
+
+::-webkit-input-placeholder {
+    padding-left: 3px;
+}
+#myinfobox{
+    display: inline-block;
+    position: absolute;
+    width: 539px;
+    height: 300px;
+    text-align: center;
+}
+
+#iconsandtext{
+    text-indent: 50%;
+    text-align: left;
+}
+.icons{
+    position: absolute;
+    left: 150px;
+    width: 20px;
+
+}
+
+.icontext{
+    right:-30px;
+
+    font-family: "Calibri Light";
+    vertical-align: middle;
+}
+
+.oneone{
+    vertical-align: middle;
+    margin: 5px;
+}
+
